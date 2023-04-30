@@ -1,6 +1,6 @@
 ---
-date: "2022-07-08T11:50:54.000Z"
-title: Hi
+date: '2022-07-08T11:50:54.000Z'
+title: Second Blog
 tagline: This is a Tagline If you want to add.
 preview: >-
   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -8,7 +8,7 @@ preview: >-
   when an unknown printer took a galley of type and scrambled it to make a type
   specimen book.
 image: >-
-  https://images.unsplash.com/photo-1640017955477-75b58521007d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+  https://images.unsplash.com/photo-1656427868828-79a829b92b2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
 ---
 
 # Heading One

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-15T11:50:54.000Z'
-title: Amazing Blog
-tagline: This is a Tagline If you want to add.
+title: 'Live with Water'
+tagline: Urban Design, Climate Change, Public Engagement.
 preview: >-
   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
